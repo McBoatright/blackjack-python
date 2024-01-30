@@ -1,0 +1,50 @@
+2024-01-29 18:04:59 info: Congratulations, your extension "Embold" is now active!
+2024-01-29 18:04:59 info: tempDirectory : c:\Users\micha\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-01-29 18:05:01 info: Extraction complete for source: c:\Users\micha\.vscode\extensions\embold-vscode.embold-0.1.8\resources\embold-scanner-archive.zip, destination: c:\Users\micha\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-01-29 18:05:01 info: Extension installed on machine OS : win32
+2024-01-29 18:05:01 info: Fetched the issues from DB
+2024-01-29 18:05:01 error: ERROR checking java version : Error: Command failed: java -version
+'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-01-29 18:05:01 info: JAVA is not installed on the system,Please install JAVA (1.8 or higher version) to use embold extension'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-01-29 18:05:01 info: Java installed on machine.
+2024-01-29 18:05:02 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-01-29 18:05:02 info: Current installed embold extension version : 0.1.8
+2024-01-29 18:05:02 info: Latest embold extension version on marketplace : 0.1.6
+2024-01-29 18:11:38 info: Row(s) deleted
+2024-01-29 18:11:38 info: Row(s) deleted
+2024-01-29 18:11:38 info: Row(s) deleted
+2024-01-29 18:11:39 info: Row(s) deleted
+2024-01-29 18:11:39 info: Row(s) deleted
+2024-01-29 18:11:39 info: Row(s) deleted
+2024-01-29 18:11:39 info: Row(s) deleted
+2024-01-29 18:11:39 info: Row(s) deleted
+2024-01-29 18:11:39 info: Row(s) deleted
+2024-01-29 18:36:17 info: Row(s) deleted
+2024-01-29 18:36:17 info: Row(s) deleted
+2024-01-29 18:36:42 info: Row(s) deleted
+2024-01-29 18:37:33 info: Row(s) deleted
+2024-01-29 18:37:33 info: Row(s) deleted
+2024-01-29 18:37:33 info: Row(s) deleted
+2024-01-29 18:37:33 info: Row(s) deleted
+2024-01-29 18:37:35 info: Row(s) deleted
+2024-01-29 19:22:18 info: Congratulations, your extension "Embold" is now active!
+2024-01-29 19:22:18 info: tempDirectory : c:\Users\micha\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-01-29 19:22:21 info: Extraction complete for source: c:\Users\micha\.vscode\extensions\embold-vscode.embold-0.1.8\resources\embold-scanner-archive.zip, destination: c:\Users\micha\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-01-29 19:22:21 info: Extension installed on machine OS : win32
+2024-01-29 19:22:21 info: Fetched the issues from DB
+2024-01-29 19:22:21 error: ERROR checking java version : Error: Command failed: java -version
+'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-01-29 19:22:21 info: JAVA is not installed on the system,Please install JAVA (1.8 or higher version) to use embold extension'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-01-29 19:22:21 info: Java installed on machine.
+2024-01-29 19:22:22 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-01-29 19:22:22 info: Current installed embold extension version : 0.1.8
+2024-01-29 19:22:22 info: Latest embold extension version on marketplace : 0.1.6
+2024-01-29 19:29:18 info: Row(s) deleted
